@@ -1,6 +1,6 @@
 const answer = prompt('Which planet is closest to the sun?')
 
-//Two doors in "if...else" statement, true or false (boolean)
+//Two doors in "if...else" statement, true or false
 
 //Video said to use .toUpperCase(), to show masery, I did .toLowerCase()
 
