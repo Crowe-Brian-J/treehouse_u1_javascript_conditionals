@@ -6,6 +6,11 @@ const guess = prompt('Guess a number between 1 and 10.')
 
 //'guess' returns string --> plus sign in front (+) converts 'guess' to number
 
+/*
+  1. Test if a player's guess matches the number
+  2. Change the value of correctGuess if they match
+*/
+
 if (+guess === number) {
   correctGuess = true
 }
